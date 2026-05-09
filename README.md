@@ -45,6 +45,7 @@ I'm a **Japanese language student** with a passion for **computer science** and 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mepuru-181717?style=flat-square&logo=github)](https://github.com/Mepuru)
+[![Blog](https://img.shields.io/badge/Blog-kurikana.cn-blue?style=flat-square&logo=blogger&logoColor=white)](https://kurikana.cn)
 
 </div>
 
