@@ -43,6 +43,24 @@ I'm a **Japanese language student** with a passion for **computer science** and 
 - Exploring AI-assisted development with VibeCoding tools
 - Improving my Japanese language skills while coding
 
+## 🌟 Featured Project
+
+<div align="center">
+
+### [Chestnut Studio](https://github.com/Mepuru/Chestnut-Studio)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+
+**现代化卡片化字幕工具** - 面向字幕组/烤肉组的字幕编辑器
+
+🎬 视频播放 · 🎵 音频波形 · ⌨️ 快捷打轴 · 📝 翻译面板
+
+[![GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=flat-square&logo=github)](https://github.com/Mepuru/Chestnut-Studio)
+
+</div>
+
 ## 📫 How to Reach Me
 
 <div align="center">
