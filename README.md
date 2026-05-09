@@ -47,6 +47,8 @@ I'm a **Japanese language student** with a passion for **computer science** and 
 
 <div align="center">
 
+<img src="icon.png" width="100" height="100" alt="Chestnut Studio Icon">
+
 ### [Chestnut Studio](https://github.com/Mepuru/Chestnut-Studio)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
