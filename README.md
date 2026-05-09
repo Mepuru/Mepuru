@@ -13,6 +13,7 @@ I'm a **Japanese language student** with a passion for **computer science** and 
 - 🌱 Currently learning more about Python ecosystem and modern development tools
 - 💻 Programming is my hobby - I love creating useful applications
 - 🇯🇵 日本語を勉強しています (I'm studying Japanese)
+- 📜 JLPT N1: 142/180
 - 🔭 Always exploring new technologies and development approaches
 
 ## 🛠️ Tech Stack
@@ -30,6 +31,9 @@ I'm a **Japanese language student** with a passion for **computer science** and 
 ![Trae](https://img.shields.io/badge/Trae-AI%20IDE-blueviolet?style=flat-square)
 ![OpenCode CLI](https://img.shields.io/badge/OpenCode%20CLI-Command%20Line-orange?style=flat-square)
 ![OpenCode Desktop](https://img.shields.io/badge/OpenCode%20Desktop-Desktop%20App-green?style=flat-square)
+
+### Language Skills
+![Japanese](https://img.shields.io/badge/JLPT%20N1-142%2F180-red?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=)
 
 </div>
 
