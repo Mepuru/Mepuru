@@ -33,16 +33,6 @@ I'm a **Japanese language student** with a passion for **computer science** and 
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mepuru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mepuru&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mepuru&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
 ## 🎯 What I'm Working On
 
 - Building Python applications with FastAPI for web APIs
