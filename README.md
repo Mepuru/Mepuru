@@ -32,7 +32,6 @@ I'm a **Japanese language student** with a passion for **computer science** and 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
 ![VitePress](https://img.shields.io/badge/VitePress-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -40,10 +39,8 @@ I'm a **Japanese language student** with a passion for **computer science** and 
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Go + chi](https://img.shields.io/badge/Go%20%2B%20chi-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![pgx](https://img.shields.io/badge/pgx-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![.NET Blazor](https://img.shields.io/badge/.NET%20Blazor-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-### Mobile & Desktop
-![React Native](https://img.shields.io/badge/React%20Native%20%2B%20Expo-61DAFB?style=flat-square&logo=react&logoColor=black)
+### Desktop
 ![PySide6](https://img.shields.io/badge/PySide6%20(Qt)-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![ttkbootstrap](https://img.shields.io/badge/ttkbootstrap-Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -82,7 +79,6 @@ I'm a **Japanese language student** with a passion for **computer science** and 
 - Building desktop tools with PySide6 / ttkbootstrap and packaging them with Nuitka
 - Full-stack development with Go (chi + pgx + PostgreSQL) and React + TypeScript
 - Astro-based blog & documentation themes, plus VitePress documentation sites
-- Mobile development with React Native (Expo)
 - AI-assisted development with Qoder, Reasonix, Trae and OpenCode
 - IoT experiments with ESP32: ST7789 screens, BLE door lock, Web-controlled demos
 - Improving my Japanese language skills while coding
@@ -114,10 +110,8 @@ I'm a **Japanese language student** with a passion for **computer science** and 
 | [ProdLog](https://github.com/Mepuru/ProdLog) | 元数据驱动的数据管理系统（RBAC / 行级锁 / 审计日志） | Go + chi + pgx · PostgreSQL + goose · React + Ant Design + Zustand |
 | [Maroon](https://github.com/Mepuru/Maroon) | 暖色系博客 + 文档双用途主题（Monorepo 架构） | Astro 5 · TypeScript · Pagefind · npm workspaces |
 | [Chestnut Name Picker](https://github.com/Mepuru/Chestnut-Name-Picker) | 名单随机抽选工具，多规则筛选 + Moonbit 交叉验证 | Python · ttkbootstrap · openpyxl · Nuitka · MoonBit |
-| [NeoChatty](https://github.com/Mepuru/neochatty) | 即时通讯应用，支持 BLE 5.0 附近好友发现 | Node.js + Socket.IO · React Native (Expo) + React Web · MariaDB · Blazor 管理面板 |
 | [Arduino-ESP32-Demo](https://github.com/Mepuru/Arduino-ESP32-Demo) | ESP32-S3 系列项目：ST7789 屏幕 / BLE 门锁 / Web 游戏 | Arduino C++ · ESP32 · TFT_eSPI · BLE |
 | [Seri-Group](https://github.com/Mepuru/Seri-Group) | 花璃汉化组官方文档 | VitePress |
-| [fuwari](https://github.com/Mepuru/fuwari) | Astro 博客主题（使用 & 定制中） | Astro · Svelte · Tailwind CSS |
 
 ## 📫 How to Reach Me
 
